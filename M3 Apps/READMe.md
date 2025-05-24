@@ -1,1 +1,0 @@
-This repo is for keeping setup files of applications that i made for M3 
